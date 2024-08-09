@@ -14,7 +14,7 @@
   
   }
   ::-webkit-scrollbar-thumb {
-      background:#c6ffc6;
+      background:#4fd8fa;
       border-radius: 10px;
       width: 8px;
       height: 2px;
@@ -97,7 +97,7 @@
         }
       
       a:hover{
-        color:#c6ffc6;
+        color:#4fd8fa;
       }
       
       a.left:before {
@@ -281,7 +281,7 @@
 
           #abt{
             height: 35em;
-            background-color: #c6ffc6;
+            background-color: #4fd8fa;
             margin-bottom: 80px;
             height: auto;
           }
@@ -416,7 +416,7 @@
             }
           }
         .green{
-          background-color: #c6ffc6;
+          background-color: #4fd8fa;
           height: 120px;
           height: auto;
         }
@@ -436,7 +436,7 @@
             z-index: 99; 
             border: none; 
             outline: none; 
-            background-color: #c6ffc6; 
+            background-color: #4fd8fa; 
             
             cursor: pointer; 
             padding: 10px; 
@@ -459,7 +459,7 @@
             margin-top: 440px;
         }
         .footer {
-          background-color: #c6ffc6;
+          background-color: #4fd8fa;
           color: #0C1618;
           padding: 20px 0;
           text-align: center;
@@ -507,7 +507,7 @@
             z-index: -6;
             top: -16px;
             right: -16px;
-            background: linear-gradient(135deg, #c6ffc6, #c6ffc6);
+            background: linear-gradient(135deg, #4fd8fa, #4fd8fa);
             height: 32px;
             width: 32px;
             border-radius: 32px;
@@ -707,7 +707,7 @@ padding: 16px 20px;
 margin:8px 0;
 font-size: 28px;
 font-family:'poppins',sans-serif;
-background-color:#c6ffc6;
+background-color:#4fd8fa;
 background-size: 100%;
 background-image: -webkit-linear-gradient(45deg,
                                           rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%,
@@ -721,7 +721,7 @@ background-image:          linear-gradient(45deg,
                                           rgba(0, 0, 0, 0));
 background-size: 20px 20px, 100% 100%;
 border: 1px solid ;
-border-color:  #c6ffc6;
+border-color:  #4fd8fa;
 border-bottom-width : 3px;
 color:#001220;
 outline: none;
