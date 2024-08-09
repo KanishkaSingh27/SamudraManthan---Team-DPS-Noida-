@@ -27,13 +27,13 @@ var pJS = function(tag_id, params){
           }
         },
         color: {
-          value: '#c6ffc6'
+          value: '#4fd8fa'
         },
         shape: {
           type: 'circle',
           stroke: {
             width: 0,
-            color: 'c6ffc6'
+            color: '4fd8fa'
           },
           polygon: {
             nb_sides: 5
